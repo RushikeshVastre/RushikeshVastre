@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshvastre&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshvastre" /> </p>
 
-- 🌱 I’m currently learning **Spring, SpringBoot**
+- 🌱 I’m currently learning **AWS services, Cloud Support & Security, Cybersecurity**
 
-- 💬 Ask me about **Java Enterprise App Development**
+- 💬 Ask me about **Java Enterprise App Development & Cloud Support & Security**
 
 - 📫 How to reach me **rushikeshvastre@gmail.com**
 
